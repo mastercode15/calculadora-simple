@@ -9,3 +9,17 @@
 ## Autores
 * **Sebastián Morales** 
 * **Xavier Calle** 
+
+## Funciones implementadas
+* _Suma_
+* _Resta_
+* _División_
+* _Multiplicación_
+* _Potencia_
+* **Raiz**
+* **Logaritmo**
+* **Logaritmo Natural**
+* **Seno**
+* **Coseno**
+* **Tangente**
+* **Cotangente**
